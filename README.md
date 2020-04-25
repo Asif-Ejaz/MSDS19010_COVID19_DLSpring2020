@@ -1,24 +1,23 @@
 # MSDS19010_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
-VGG16
+# Transfer learning with two models tuning all layers
+# VGG16 vs Resnet18 
 
-![VGG16](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/1Capture.PNG
+![VGG16](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/Ccomparison%20vgg-resnet.PNG
 )
 
 
-Resnet18
 
 ![Resnet18](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/2Capture.PNG)
 
-Model Evalualuation 
 
-![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Result1.PNG)
-![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Resut2.PNG)
+# Model Evalualuation 
 
-Expereiments Summary
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/testResults.PNG)
 
-![Model Comparison](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Ccomparison%20vgg-resnet.PNG)
+# Expereiments Summary
+
 
 <table class="tg">
   <tr>

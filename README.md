@@ -37,6 +37,7 @@ Expereiments Summary
     <td class="tg-yw4l">Orange</td>
   </tr>
 </table>
+
 # Discussion :
 
 VGG gives more accuracy than Resnet but it requires more training time than Resnet. It is costly in terms of parameters so it provides that much high accuracy easily.

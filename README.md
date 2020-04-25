@@ -4,6 +4,30 @@ This repository contains code and results for COVID-19 classification assignment
 Access Dataset [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing)
 
 
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Class</b></th>
+    <th class="tg-yw4l"><b>Train</b></th>
+    <th class="tg-yw4l"><b>Validation</b></th>
+    <th class="tg-yw4l"><b>Test</b></th>
+
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Infected</td>
+    <td class="tg-yw4l">4919</td>
+    <td class="tg-yw4l">615</td>
+    <td class="tg-yw4l">615</td>
+
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Normal</td>
+    <td class="tg-yw4l">7081</td>
+    <td class="tg-yw4l">885</td>
+    <td class="tg-yw4l">885</td>
+  </tr>
+</table>
+
+
 # Models
 Access VGG16 Model [here](https://drive.google.com/file/d/1UQL71b9DtTiSLKR61ZCNNNuMFWrjMBi5/view?usp=sharing)
 
@@ -28,23 +52,6 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
 # Experiments Summary
 
 
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Animals</b></th>
-    <th class="tg-yw4l"><b>Sports</b></th>
-    <th class="tg-yw4l"><b>Fruits</b></th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Cat</td>
-    <td class="tg-yw4l">Soccer</td>
-    <td class="tg-yw4l">Apple</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Dog</td>
-    <td class="tg-yw4l">Basketball</td>
-    <td class="tg-yw4l">Orange</td>
-  </tr>
-</table>
 
 # Discussion :
 

@@ -1,12 +1,13 @@
 # MSDS19010_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 # Dataset
-[Access Dataset here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing)
+Access Dataset [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing)
 
 
 # Models
-[VGG16](https://drive.google.com/file/d/1UQL71b9DtTiSLKR61ZCNNNuMFWrjMBi5/view?usp=sharing)
-[ResNet](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMaDLyowIs6b-DZzi/view?usp=sharing)
+Access VGG16 Model [here](https://drive.google.com/file/d/1UQL71b9DtTiSLKR61ZCNNNuMFWrjMBi5/view?usp=sharing)
+
+Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMaDLyowIs6b-DZzi/view?usp=sharing)
 
 
 ## Covid-19 X-rays images classification using Transfer learning

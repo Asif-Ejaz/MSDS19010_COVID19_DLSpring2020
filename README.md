@@ -16,6 +16,11 @@ Resnet18
 
 ![Resnet18](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/2Capture.PNG)
 
+Model Evalualuation 
+
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Result1.PNG)
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Resut2.PNG)
+
 Expereiments Summary
 
 ![Model Comparison](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Experiments%20Plots/Ccomparison%20vgg-resnet.PNG)

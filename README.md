@@ -13,14 +13,14 @@ Access Dataset [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLd
 
   </tr>
   <tr>
-    <td class="tg-yw4l">Infected</td>
+    <td class="tg-yw4l"><b>Infected</b></td>
     <td class="tg-yw4l">4919</td>
     <td class="tg-yw4l">615</td>
     <td class="tg-yw4l">615</td>
 
   </tr>
   <tr>
-    <td class="tg-yw4l">Normal</td>
+    <td class="tg-yw4l"><b>Normal</b></td>
     <td class="tg-yw4l">7081</td>
     <td class="tg-yw4l">885</td>
     <td class="tg-yw4l">885</td>

@@ -35,6 +35,97 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
 
 
 ## Covid-19 X-rays images classification using Transfer learning
+
+# Experiments Summary
+### Epochs = 10 
+### Learning Rate = 0.0001
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Model</b></th>
+    <th class="tg-yw4l"><b>Parameters</b></th>
+    <th class="tg-yw4l"><b>Training Time</b></th>
+    <th class="tg-yw4l"><b>Train</b></th>
+    <th class="tg-yw4l"><b>Validation</b></th>
+    <th class="tg-yw4l"><b>Test</b></th>
+
+  </tr>
+  <tr>
+    <th class="tg-yw4l"><b>VGG16</b></th>
+    <th class="tg-yw4l"><b>2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <3 hours</b></th>
+    <th class="tg-yw4l"><b> 91.33 </b></th>
+    <th class="tg-yw4l"><b>91.33</b></th>
+    <th class="tg-yw4l"><b>97</b></th>
+
+  </tr>
+  <tr>
+    <th class="tg-yw4l"><b>ResNet18</b></th>
+    <th class="tg-yw4l"><b>2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> 84 </b></th>
+    <th class="tg-yw4l"><b> 84</b></th>
+    <th class="tg-yw4l"><b>92</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>VGG16</b></th>
+    <th class="tg-yw4l"><b> Features.28 + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <3 hours</b></th>
+    <th class="tg-yw4l"><b> 88 </b></th>
+    <th class="tg-yw4l"><b>89</b></th>
+    <th class="tg-yw4l"><b>95</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>ResNet18</b></th>
+    <th class="tg-yw4l"><b> Layer4 + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> 61.72 </b></th>
+    <th class="tg-yw4l"><b> 61.77</b></th>
+    <th class="tg-yw4l"><b>61</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>VGG16</b></th>
+    <th class="tg-yw4l"><b> Features 24,26,28 + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <3 hours</b></th>
+    <th class="tg-yw4l"><b> 90 </b></th>
+    <th class="tg-yw4l"><b>89</b></th>
+    <th class="tg-yw4l"><b>96</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>ResNet18</b></th>
+    <th class="tg-yw4l"><b> Layer3,4 + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> 66.72 </b></th>
+    <th class="tg-yw4l"><b> 67.77</b></th>
+    <th class="tg-yw4l"><b>67</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>VGG16</b></th>
+    <th class="tg-yw4l"><b> All Features  + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <3 hours</b></th>
+    <th class="tg-yw4l"><b> 91 </b></th>
+    <th class="tg-yw4l"><b>91.77</b></th>
+    <th class="tg-yw4l"><b>96</b></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"><b>ResNet18</b></th>
+    <th class="tg-yw4l"><b> All Blocks + 2 FC layers</b></th>
+    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> 65 </b></th>
+    <th class="tg-yw4l"><b> 67.77</b></th>
+    <th class="tg-yw4l"><b>67</b></th>
+  </tr>
+  
+</table>
+
+
+
 # VGG16 vs Resnet18 
 
 ![VGG16](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/Ccomparison%20vgg-resnet.PNG
@@ -49,7 +140,6 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
 
 ![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/testResults.PNG)
 
-# Experiments Summary
 
 
 

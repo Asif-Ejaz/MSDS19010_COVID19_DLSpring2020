@@ -62,7 +62,7 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
   <tr>
     <th class="tg-yw4l"><b>ResNet18</b></th>
     <th class="tg-yw4l"><b>2 FC layers</b></th>
-    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> <1 hrs 30m </b></th>
     <th class="tg-yw4l"><b> 84 </b></th>
     <th class="tg-yw4l"><b> 84</b></th>
     <th class="tg-yw4l"><b>92</b></th>
@@ -80,7 +80,7 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
   <tr>
     <th class="tg-yw4l"><b>ResNet18</b></th>
     <th class="tg-yw4l"><b> Layer4 + 2 FC layers</b></th>
-    <th class="tg-yw4l"><b> <2 hours</b></th>
+    <th class="tg-yw4l"><b> <1 hrs 30m </b></th>
     <th class="tg-yw4l"><b> 61.72 </b></th>
     <th class="tg-yw4l"><b> 61.77</b></th>
     <th class="tg-yw4l"><b>61</b></th>
@@ -132,8 +132,6 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
 )
 
 
-
-![Resnet18]()
 
 
 # Model Evalualuation 

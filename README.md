@@ -161,3 +161,7 @@ Access ResNet18 Model [here](https://drive.google.com/open?id=1pCPchhZu_xRVSADcc
 
 # Experiments and Analysis
 
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/focalloss.PNG)
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/focal%20loss%2022.PNG)
+![Result](https://github.com/Asif-Ejaz/MSDS19010_COVID19_DLSpring2020/blob/master/Results/focalloss3e.PNG)
+

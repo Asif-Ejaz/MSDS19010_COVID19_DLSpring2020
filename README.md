@@ -153,6 +153,33 @@ Resnet requires less training time than VGG but due to less parameters it is not
 # Dataset
 Access Dataset [here](https://drive.google.com/open?id=1Fc2Uyy8cMKAwbwuumwys8uZtVnkZw-Ak)
 
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Class</b></th>
+    <th class="tg-yw4l"><b>Train</b></th>
+    <th class="tg-yw4l"><b>Validation</b></th>
+
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Covid-19</b></td>
+    <td class="tg-yw4l">200</td>
+    <td class="tg-yw4l">20</td>
+
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Pneumonia</b></td>
+    <td class="tg-yw4l">2000</td>
+    <td class="tg-yw4l">200</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Normal</b></td>
+    <td class="tg-yw4l">4000</td>
+    <td class="tg-yw4l">400</td>
+  </tr>
+</table>
+
+### we have 629 unlabeled testing images
+
 
 # Models
 Access VGG16 Model [here](https://drive.google.com/open?id=1-75GUoLsVS0_yZfiUY5RXSGMj1bEWuz3)

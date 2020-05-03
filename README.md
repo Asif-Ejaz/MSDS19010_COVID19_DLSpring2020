@@ -145,3 +145,19 @@ Access ResNet18 Model [here](https://drive.google.com/file/d/1Io_WxP4ouGCmF93oMa
 
 VGG gives more accuracy than Resnet but it requires more training time than Resnet. It is costly in terms of parameters so it provides that much high accuracy easily.
 Resnet requires less training time than VGG but due to less parameters it is not able to provide that high accuracy in comparison to vgg. But setting optimal parameters like learning rate we can tune this to work better.
+
+
+
+# Dealing with high class imbalancement using Focal Loss
+
+# Dataset
+Access Dataset [here](https://drive.google.com/open?id=1Fc2Uyy8cMKAwbwuumwys8uZtVnkZw-Ak)
+
+
+# Models
+Access VGG16 Model [here](https://drive.google.com/open?id=1-75GUoLsVS0_yZfiUY5RXSGMj1bEWuz3)
+
+Access ResNet18 Model [here](https://drive.google.com/open?id=1pCPchhZu_xRVSADccRnjU8321tKwwnkn)
+
+# Experiments and Analysis
+

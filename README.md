@@ -163,7 +163,7 @@ Access Dataset [here](https://drive.google.com/open?id=1Fc2Uyy8cMKAwbwuumwys8uZt
   <tr>
     <td class="tg-yw4l"><b>Covid-19</b></td>
     <td class="tg-yw4l">200</td>
-    <td class="tg-yw4l">20</td>
+    <td class="tg-yw4l">28</td>
 
   </tr>
   <tr>
